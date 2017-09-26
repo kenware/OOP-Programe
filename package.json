@@ -1,0 +1,22 @@
+{
+  "name": "andet",
+  "version": "1.0.0",
+  "description": "simple tdd",
+  "main": "app/app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/tes.js"
+  },
+  "keywords": [
+    "TDD",
+    "javascript"
+  ],
+  "author": "phil Newman",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
